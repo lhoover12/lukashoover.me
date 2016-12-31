@@ -1,0 +1,115 @@
+/* header */
+
+header {
+	text-align: center;
+	background: pink;
+	color: yellow;
+}
+header .container {
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+header img {
+	display: block;
+	margin: 0 auto 20px;
+}
+header .intro-text .name {
+	display: block;
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 2em;
+}
+header .intro-tex t .skills {
+	font-size: 1.25em;
+	font-weight: 300;
+}
+
+
+/* programmer section */
+
+.programmer {
+	background: orange;
+}
+
+.programmer .container {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.programmer-intro {
+	text-align: center;
+	display: block;
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 2em;
+}
+
+
+
+/* consumer section */
+
+.consumer {
+	background: yellow;
+	color: pink;
+}
+
+.consumer .container {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.consumer-intro {
+	text-align: center;
+	display: block;
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 2em;
+}
+
+
+/* camera section */
+
+.camera {
+	background: black;
+	color: orange;
+}
+.Mobile {
+	background: red;
+	color: blue;
+    padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.camera .container {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.camera-intro {
+	text-align: center;
+	display: block;
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 2em;
+}
+.mobile-intro {
+	text-align: center;
+	display: block;
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 2em;
+}
+
+.camera-kindof {
+	text-align: center;
+	display: block;
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-transform: lowercase;
+	font-weight: 100;
+	font-size: .5em;
+}
+
